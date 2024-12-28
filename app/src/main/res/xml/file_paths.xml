@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Menyediakan akses ke direktori eksternal (contoh untuk gambar) -->
+    <external-path
+        name="external_files"
+        path="." />
+
+    <!-- Menyediakan akses ke direktori internal aplikasi -->
+    <!-- Jika diperlukan, Anda bisa menambahkan akses ke folder internal -->
+    <!-- <files-path
+        name="internal_files"
+        path="." /> -->
+</paths>

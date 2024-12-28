@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryNest</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Tempat nyaman untuk menyimpan cerita</string>
+    <string name="title_welcome_page">Selamat datang di StoryNest!</string>
+    <string name="title_signup_page">Buat akun baru anda</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="title_login_page">Silakan login terlebih dahulu</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="login_image_description">Gambar Login</string>
+    <string name="image_story_description">Gambar Story</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_add">Tambah Story</string>
+    <string name="title_setting">Pengaturan</string>
+    <string name="set_language">Bahasa</string>
+    <string name="upload">Upload</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="description">Deskripsi gambar</string>
+    <string name="empty_image_warning">Masukkan berkas gambar terlebih dahulu</string>
+    <string name="empty_description_warning">Isi deskripsi gambar terlebih dahulu</string>
+    <string name="upload_success">Unggah story berhasil!</string>
+    <string name="upload_error">Unggah story gagal!</string>
+    <string name="message_register_success">Akun Anda telah berhasil dibuat. Silakan masuk!</string>
+    <string name="regist_success">Registrasi Berhasil</string>
+    <string name="error_failed">Terjadi kesalahan</string>
+    <string name="register_failed">Registrasi Gagal</string>
+    <string name="login_success">Login Berhasil</string>
+    <string name="welcome_user">Selamat datang, %1$s!</string>
+    <string name="next">Lanjut</string>
+    <string name="login_failed">Login Gagal</string>
+    <string name="user">Pengguna</string>
+    <string name="error">Error: %1$s</string>
+    <string name="permission_request_granted">Permintaan izin diberikan</string>
+    <string name="permission_request_denied">Permintaan izin ditolak</string>
+    <string name="maps">Peta</string>
+    <string name="title_maps">Lokasi Story</string>
+    <string name="add_location">Tambahkan lokasi</string>
+    <string name="location_not_found">Lokasi tidak ditemukan</string>
+    <string name="retry">Coba lagi</string>
+</resources>
